@@ -6,7 +6,7 @@
                 <div class="col-lg-3 col-md-6 col-12">
                     <div class="single-footer">
                         <h2>About Us</h2>
-                        <p>Lorem ipsum dolor sit am consectetur adipisicing elit do eiusmod tempor incididunt ut labore dolore magna.</p>
+                        <p>Lorem ipsum dolor sit  consectetur adipisicing elit do eiusmod tempor incididunt ut labore dolore magna.</p>
                         <!-- Social -->
                         <ul class="social">
                             <li><a href="#"><i class="icofont-facebook"></i></a></li>
