@@ -169,9 +169,9 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="section-title">
-							<h2>We Are Always Ready to Help You & Your Family</h2>
+							<h2>Catalyzing enterprises with cutting-edge cognitive AI solutions for transformative impact</h2>
 							<img src="img/section-img.png" alt="#">
-							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
+							<!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p> -->
 						</div>
 					</div>
 				</div>
@@ -182,8 +182,9 @@
 							<div class="signle-icon">
 								<i class="fa fa-cloud"></i>
 							</div>
-							<h3>Emergency Help</h3>
-							<p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate.</p>
+							<h3>Feature Engineering</h3>
+							<br>
+							<p>Create meaningful features from raw data. This enhances model learning and generalization.</p>
 						</div>
 						<!-- End Single features -->
 					</div>
@@ -193,8 +194,8 @@
 							<div class="signle-icon">
 								<i class="fa fa-sitemap"></i>
 							</div>
-							<h3>Enriched Pharmecy</h3>
-							<p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate.</p>
+							<h3>Model Development and training</h3>
+							<p>We Select Appropriate Algorithms, Train and Validate Models & Hyperparameter Tuning.</p>
 						</div>
 						<!-- End Single features -->
 					</div>
@@ -204,8 +205,9 @@
 							<div class="signle-icon">
 								<i class="fa fa-slack"></i>
 							</div>
-							<h3>Medical Treatment</h3>
-							<p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate.</p>
+							<h3>Deployment and monitoring </h3>
+							<br>
+							<p>We Deploy Models, Monitor Performance & Scale Infrastructure.</p>
 						</div>
 						<!-- End Single features -->
 					</div>
@@ -214,59 +216,7 @@
 		</section>
 		<!--/ End Feautes -->
 		
-		<!-- Start Fun-facts -->
-		<div id="fun-facts" class="fun-facts section overlay">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-3 col-md-6 col-12">
-						<!-- Start Single Fun -->
-						<div class="single-fun">
-							<i class="icofont icofont-home"></i>
-							<div class="content">
-								<span class="counter">3468</span>
-								<p>Hospital Rooms</p>
-							</div>
-						</div>
-						<!-- End Single Fun -->
-					</div>
-					<div class="col-lg-3 col-md-6 col-12">
-						<!-- Start Single Fun -->
-						<div class="single-fun">
-							<i class="icofont icofont-user-alt-3"></i>
-							<div class="content">
-								<span class="counter">557</span>
-								<p>Specialist Doctors</p>
-							</div>
-						</div>
-						<!-- End Single Fun -->
-					</div>
-					<div class="col-lg-3 col-md-6 col-12">
-						<!-- Start Single Fun -->
-						<div class="single-fun">
-							<i class="icofont-simple-smile"></i>
-							<div class="content">
-								<span class="counter">4379</span>
-								<p>Happy Patients</p>
-							</div>
-						</div>
-						<!-- End Single Fun -->
-					</div>
-					<div class="col-lg-3 col-md-6 col-12">
-						<!-- Start Single Fun -->
-						<div class="single-fun">
-							<i class="icofont icofont-table"></i>
-							<div class="content">
-								<span class="counter">32</span>
-								<p>Years of Experience</p>
-							</div>
-						</div>
-						<!-- End Single Fun -->
-					</div>
-				</div>
-			</div>
-		</div>
-		<!--/ End Fun-facts -->
-				
+			
 		<!-- Footer Area -->
 		<?php include('footer.php'); ?>
 		<!--/ End Footer Area -->
