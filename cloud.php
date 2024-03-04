@@ -91,7 +91,7 @@
                             <h4>CogniCloud Nexus: Empowering Business Transformation Through Strategic Cloud Modernization</h4>
                             <p>In today’s intricate IT landscape, organizations grapple with the complexities of multi-cloud and hybrid environments. At <strong>CogniCloud Nexus</strong>, we recognize that innovation hinges on strategic investments in IT modernization and cloud adoption. These elements form the bedrock of resilient digital value chains.</p>
                             <br>
-                            <h4>Our expertise addresses common challenges faced by enterprises:</h4>
+                            <h3 class="blue-heading">Our expertise addresses common challenges faced by enterprises:</h3>
                             <ul class="pt-1 ccognitive_ai_list">
                                 <li><h4>1. Flexible Cloud Strategies :</h4>
                                     <p>We steer organizations away from rigid cloud approaches. Instead, we foster living cloud strategies that adapt seamlessly to evolving business realities.</p>
@@ -107,7 +107,7 @@
                                 </li>
                             </ul>
                             <br>
-                            <h4>Why Choose CogniCloud Nexus?</h4>
+                            <h3 class="blue-heading">Why Choose CogniCloud Nexus?</h3>
                             <ul class="pt-1 ccognitive_ai_list">
                                 <li><h4>1. Strategic Partnership :</h4>
                                     <p>As leaders seek innovative solutions, we stand ready to co-create, deliver, and manage cloud-composed digital transformations. Our end-to-end service portfolio ensures value at scale.</p>

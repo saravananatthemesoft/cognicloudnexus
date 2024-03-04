@@ -4177,7 +4177,7 @@ body{
 	padding-top: 10px;
 }
 .carousel-item .card{
-	min-height: 250px;
+	min-height: 240px;
 	background-color: #1A76D1;
 	color: #ffffff;
 }
@@ -4186,4 +4186,7 @@ body{
 }
 .breadcrumbs{
 	background-image: none;
+}
+.blue-heading{
+	color:#1a76d1;
 }

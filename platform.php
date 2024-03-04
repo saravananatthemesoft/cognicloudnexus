@@ -92,7 +92,7 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="mb-3">Imperatrives Of the new age digital platform</h3>
+                                            <h3 class="mb-3 blue-heading">Imperatrives Of the new age digital platform</h3>
                                         </div>
                                         <div class="col-12">
                                             <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
@@ -103,7 +103,7 @@
                                                             <div class="col-md-3 mb-3">
                                                                 <div class="card">
                                                                     <img class="img-fluid" alt="100%x280" src="img/Agility.png">
-                                                                    <div class="card-body">
+                                                                    <div class="card-body pb-0">
                                                                         <h6 class="card-title">Agility</h6>
                                                                     </div>
                                                                 </div>
@@ -111,7 +111,7 @@
                                                             <div class="col-md-3 mb-3">
                                                                 <div class="card">
                                                                     <img class="img-fluid" alt="100%x280" src="img/Cloud.png">
-                                                                    <div class="card-body">
+                                                                    <div class="card-body pb-0">
                                                                         <h6 class="card-title">Cloud Scale</h6>
                                                                     </div>
                                                                 </div>
@@ -119,7 +119,7 @@
                                                             <div class="col-md-3 mb-3">
                                                                 <div class="card">
                                                                     <img class="img-fluid" alt="100%x280" src="img/besi.png">
-                                                                    <div class="card-body">
+                                                                    <div class="card-body pb-0">
                                                                         <h6 class="card-title">Business eco-system integrations</h6>
                                                                     </div>
                                                                 </div>
@@ -127,7 +127,7 @@
                                                             <div class="col-md-3 mb-3">
                                                                 <div class="card">
                                                                     <img class="img-fluid" alt="100%x280" src="img/dle.png">
-                                                                    <div class="card-body">
+                                                                    <div class="card-body pb-0">
                                                                         <h6 class="card-title">Design led experience</h6>
                                                                     </div>
                                                                 </div>
@@ -141,7 +141,7 @@
                                     </div>
                                 </div>
                             </section>
-                            <h4>Imperatives of the New Age Digital Platform</h4>
+                            <h3 class="blue-heading">Imperatives of the New Age Digital Platform</h3>
                             <ul class="pt-1 ccognitive_ai_list">
                                 <li><h4>1. Agility</h4>
                                     <p>Deliver iteratively and at speed.</p>
@@ -157,7 +157,7 @@
                                 </li>
                             </ul>
                             <br>
-                            <h4>We’re Helping Deliver:</h4>
+                            <h3 class="blue-heading">We’re Helping Deliver:</h3>
                             <ul class="pt-1 ccognitive_ai_list">
                                 <li><h4>Agility</h4>
                                     <ul class="pt-1">
@@ -184,7 +184,7 @@
                                 </li>
                             </ul>
                             <br>
-                            <h4>Business Impact</h4>
+                            <h3 class="blue-heading">Business Impact</h3>
                             <ul class="pt-1 ccognitive_ai_list">
                                 <li><h4>Reduced Rework and Risk</h4>
                                     <ul class="pt-1">
@@ -208,7 +208,7 @@
                                 </li>
                             </ul>
                             <br>
-                            <h4>Services</h4>
+                            <h3 class="blue-heading">Services</h3>
                             <p>
                             We work with our customers across all major cloud platforms and technologies to offer services in the following areas:
                             </p>
