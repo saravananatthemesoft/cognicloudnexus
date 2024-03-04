@@ -117,9 +117,12 @@
                                 </li>
                             </ul>
                             <br>
-                            <h4 class="text-center">Services for Cloud Modernization and Transformation</h4>
+                            <h3 class="text-center blue-heading">Services for Cloud Modernization and Transformation</h3>
+							<br>
                             <img src="img/cloud-modernaiztion.png" class="rounded mx-auto d-block" alt="...">
                             <br>
+							<h3 class="text-center blue-heading">Strategic Alliances</h3>
+							<br>
                             <img src="img/strategic-alliance.png" class="rounded mx-auto d-block" alt="...">
                             
 						</div>
