@@ -4190,3 +4190,6 @@ body{
 .blue-heading{
 	color:#1a76d1;
 }
+.navbar-nav-menu{
+	float: right;
+}
