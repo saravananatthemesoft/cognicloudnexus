@@ -711,6 +711,7 @@ body{
     -ms-transition: all .3s ease-out 0s;
     -o-transition: all .3s ease-out 0s;
     transition: all .3s ease-out 0s;
+	min-height: 290px;
 }
 .schedule .single-schedule .inner {
 	overflow:hidden;
@@ -3967,7 +3968,7 @@ body{
 	position:relative;
 }
 .footer .footer-top{
-	padding:100px 0px;
+	padding:50px 0px;
 	position:relative;
 	background:#1A76D1;
 }
@@ -4192,4 +4193,71 @@ body{
 }
 .navbar-nav-menu{
 	float: right;
+}
+/* Network Page Css */
+.nav-menu-inner {
+	position: sticky;
+	transition: top .8s ease;
+	z-index: 1000;
+}
+.nav-menu-inner li a{
+	font-size: 18px;
+	font-weight: bold;
+}
+.jumbotron-fluid{
+	width:100%;
+}
+.o-nav-light {
+	flex-wrap: nowrap;
+	border-bottom: none;
+}
+.nav{
+	background:#fff;
+}
+.nav-item.active .nav-link{
+	color:#000;
+	border-bottom: #1a76d1 2px solid;
+}
+.single_content i {
+    font-size: 100px;
+    padding-left: 20px;
+    color: #1a76d1;
+}
+
+.product-name {
+    margin-bottom: 1.875rem;
+}
+.field_teaser {
+    margin-bottom: 0.9375rem;
+}
+.item-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 0;
+}
+#four{
+	padding-bottom: 50px !important;
+}
+.field--name-field-product-name,.field--name-field-teaser{
+	color:#000
+}
+.item-list li {
+	font-size: 16px;
+}
+.item-list li i{
+	font-size: 14px;
+	padding-left: 5px;
+	padding-right: 10px;
+}
+.footer-menu{
+	display: inline-flex;
+
+}
+.footer-menu li{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.footer-menu li a{
+	font-size: 16px;
+	color:#fff;
 }

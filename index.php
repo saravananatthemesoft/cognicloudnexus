@@ -79,9 +79,6 @@
 									<br>
 									<h1>Home to advanced <span>Cognitive AI</span> and <span>Cloud solutions</span>.</h1>
 									<p>“We provide agile and custom platforms for your specific needs.”</p>
-									<div class="button">
-										<a href="#" class="btn primary">About Us</a>
-									</div>
 								</div>
 							</div>
 						</div>
@@ -97,22 +94,22 @@
 			<div class="container">
 				<div class="schedule-inner">
 					<div class="row">
-						<div class="col-lg-4 col-md-6 col-12 ">
+						<div class="col-lg-3 col-md-6 col-12 ">
 							<!-- single-schedule -->
 							<div class="single-schedule first">
 								<div class="inner">
 									<div class="icon">
-										<i class="fa fa-android"></i>
+										<i class="fa fa-puzzle-piece"></i>
 									</div>
 									<div class="single-content">
 										<h4>Cognitive AI</h4>
 										<p>Unleashing intelligent automation through natural language processing and predictive analytics.</p>
-										<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+										<a href="cognitive_ai.php">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
 									</div>
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-6 col-12">
+						<div class="col-lg-3 col-md-6 col-12">
 							<!-- single-schedule -->
 							<div class="single-schedule middle">
 								<div class="inner">
@@ -122,27 +119,26 @@
 									<div class="single-content">
 										<h4>Cloud solutions</h4>
 										<p>Empowering businesses with scalable, secure, and agile infrastructure for digital transformation.</p>
-										<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+										<a href="cloud.php">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
 									</div>
 								</div>
 							</div>
 						</div>
-						<!-- <div class="col-lg-3 col-md-12 col-12">
+						<div class="col-lg-3 col-md-12 col-12">
 							<div class="single-schedule last">
 								<div class="inner">
 									<div class="icon">
 										<i class="fa fa-sitemap"></i>
 									</div>
 									<div class="single-content">
-										<span>Donec luctus</span>
-										<h4>Network Services</h4>
-										<p>Lorem ipsum sit amet consectetur adipiscing elit. Vivamus et erat in lacus convallis sodales.</p>
-										<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+										<h4>Network Solutions</h4>
+										<p>Enabling Seamless Connectivity with Our Cutting-Edge Network Solutions for Businesses.</p>
+										<a href="network_services.php">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
 									</div>
 								</div>
 							</div>
-						</div> -->
-						<div class="col-lg-4 col-md-12 col-12">
+						</div>
+						<div class="col-lg-3 col-md-12 col-12">
 							<!-- single-schedule -->
 							<div class="single-schedule last">
 								<div class="inner">
@@ -152,7 +148,7 @@
 									<div class="single-content">
 										<h4>Platforms</h4>
 										<p>Providing robust foundations for seamless application development and deployment.</p>
-										<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+										<a href="platform.php">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
 									</div>
 								</div>
 							</div>

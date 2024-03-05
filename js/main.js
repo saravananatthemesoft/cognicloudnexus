@@ -74,6 +74,20 @@ Version:	1.1
 			duration: 300,
 			closeOnClick:true,
 		});
+
+		let scroll_link = $('.scroll');
+
+		//smooth scrolling -----------------------
+		scroll_link.click(function(e){
+			e.preventDefault();
+			let url = $('body').find($(this).attr('href')).offset().top;
+			$('html, body').animate({
+				scrollTop : url
+			},700);
+			$(this).parent().addClass('active');
+			$(this).parent().siblings().removeClass('active');
+			return false;	
+		});
 		
 		/*===============================
 			Hero Slider JS
