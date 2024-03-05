@@ -84,55 +84,62 @@
 		<section class="contact-us section">
 			<div class="container">
 				<div class="inner">
+					<div class="row">
+						<div class="col-lg-12 px-5 pt-5">
+						<p class="pt-1">In today’s dynamic business landscape, harnessing the power of artificial intelligence (AI) is no longer a luxury—it’s a strategic imperative. Our suite of cutting-edge AI services empowers organizations to unlock new opportunities, enhance operational efficiency, and drive unparalleled growth.</p>
+						</div>
+					</div>
 					<div class="row"> 
-						<div class="col-lg-12 p-5">
-                            
-                            <p class="pt-1">In today’s dynamic business landscape, harnessing the power of artificial intelligence (AI) is no longer a luxury—it’s a strategic imperative. Our suite of cutting-edge AI services empowers organizations to unlock new opportunities, enhance operational efficiency, and drive unparalleled growth.</p>
+						<div class="col-lg-6 px-5">
                             <ul class="pt-1 ccognitive_ai_list">
-                                <li><h4>1. Cognitive Chatbots for Customer Support and Engagement</h4>
+                                <li><h4>Cognitive Chatbots for Customer Support and Engagement</h4>
                                     <p>Our intelligent chatbots seamlessly handle customer inquiries, provide personalized assistance, and enhance engagement across digital channels. From answering routine queries to resolving complex issues, our chatbots ensure exceptional customer experiences.</p>
                                 </li>
-                                <li><h4>2. AI-Driven Decision-Making Tools</h4>
+                                <li><h4>AI-Driven Decision-Making Tools</h4>
                                     <p>Make informed choices with confidence. Our AI-driven decision-making tools analyze vast datasets, predict trends, and optimize resource allocation. Whether it’s strategic planning or risk assessment, our solutions empower you to stay ahead of the curve.</p>
                                 </li>
-                                <li><h4>3. Natural Language Processing (NLP) Solutions</h4>
+                                <li><h4>Natural Language Processing (NLP) Solutions</h4>
                                     <p>Unlock the power of language. Our NLP solutions extract valuable insights from unstructured text, enabling sentiment analysis, information extraction, and intelligent search. Transform raw data into actionable knowledge.</p>
                                 </li>
-                                <li><h4>4. Cognitive Risk Assessment Models</h4>
+                                <li><h4>Cognitive Risk Assessment Models</h4>
                                     <p>Mitigate risks proactively. Our risk assessment models leverage AI algorithms to identify potential threats, enhance compliance, and safeguard your organization’s reputation. Stay resilient in an ever-evolving landscape</p>
                                 </li>
-                                <li><h4>5. Compliance Monitoring Using AI Algorithms</h4>
+                                <li><h4>Compliance Monitoring Using AI Algorithms</h4>
                                     <p>Stay compliant effortlessly. Our AI algorithms automate compliance checks, detect anomalies, and ensure adherence to regulations. Streamline processes while minimizing compliance-related risks.</p>
                                 </li>
-                                <li><h4>6. Fraud Detection Systems</h4>
+                                <li><h4>Fraud Detection Systems</h4>
                                     <p>Protect your assets. Our robust fraud detection systems analyze transaction patterns, detect irregularities, and prevent financial fraud. Safeguard your business and build trust with stakeholders.</p>
                                 </li>
 
-                                <li><h4>7. Cognitive Virtual Assistants for Personalized Interactions</h4>
+                                <li><h4>Cognitive Virtual Assistants for Personalized Interactions</h4>
                                     <p>Enhance user engagement. Our virtual assistants deliver personalized recommendations, streamline tasks, and create memorable interactions. From personalized marketing to appointment scheduling, they redefine customer engagement</p>
                                 </li>
-                                <li><h4>8. AI-Powered Recommendation Engines</h4>
+                            </ul>
+						</div>
+						<div class="col-lg-6 px-5">
+                           <ul class="pt-1 ccognitive_ai_list">
+                                <li><h4>AI-Powered Recommendation Engines</h4>
                                     <p>Deliver tailored experiences. Our recommendation engines personalize content, product suggestions, and marketing campaigns. Boost conversion rates and foster brand loyalty.</p>
                                 </li>
-                                <li><h4>9. Sentiment Analysis Tools</h4>
+                                <li><h4>Sentiment Analysis Tools</h4>
                                     <p>Understand public sentiment. Our sentiment analysis tools gauge opinions, monitor brand perception, and inform marketing strategies. Stay attuned to customer sentiment in real time.</p>
                                 </li>
-                                <li><h4>10. Cognitive Analytics Platforms for Data Insights</h4>
+                                <li><h4>Cognitive Analytics Platforms for Data Insights</h4>
                                     <p>Unleash the potential of data. Our analytics platforms process large datasets, uncover patterns, and provide actionable insights. Drive data-informed decisions across your organization.</p>
                                 </li>
-                                <li><h4>11. AI-Driven Predictive Modeling</h4>
+                                <li><h4>AI-Driven Predictive Modeling</h4>
                                     <p>Anticipate the future. Our predictive models forecast trends, optimize resource allocation, and enhance business planning. Stay agile and capitalize on emerging opportunities.</p>
                                 </li>
-                                <li><h4>12. Healthcare Diagnostics Using AI</h4>
+                                <li><h4>Healthcare Diagnostics Using AI</h4>
                                     <p>Revolutionize healthcare. Our AI-powered diagnostics analyze medical images, predict diseases, and recommend personalized treatment plans. Empower healthcare professionals with data-driven insights.</p>
                                 </li>
-                                <li><h4>13. Cognitive Image Recognition and Classification</h4>
+                                <li><h4>Cognitive Image Recognition and Classification</h4>
                                     <p>See beyond pixels. Our image recognition solutions identify objects, faces, and patterns. From security applications to content moderation, they enhance efficiency across domains.</p>
                                 </li>
-                                <li><h4>14. AI-Enhanced Content Moderation</h4>
+                                <li><h4>AI-Enhanced Content Moderation</h4>
                                     <p>Maintain a safe online environment. Our content moderation tools automatically detect inappropriate content, ensuring user safety and reducing manual moderation efforts.</p>
                                 </li>
-                                <li><h4>15. Personalized Marketing Recommendations</h4>
+                                <li><h4>Personalized Marketing Recommendations</h4>
                                     <p>Drive targeted campaigns. Our AI-backed marketing recommendations optimize ad targeting, improve customer engagement, and boost ROI.</p>
                                 </li>
                             </ul>
