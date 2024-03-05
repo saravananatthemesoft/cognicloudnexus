@@ -89,7 +89,7 @@
 						<p class="pt-1">In today’s dynamic business landscape, harnessing the power of artificial intelligence (AI) is no longer a luxury—it’s a strategic imperative. Our suite of cutting-edge AI services empowers organizations to unlock new opportunities, enhance operational efficiency, and drive unparalleled growth.</p>
 						</div>
 					</div>
-					<div class="row"> 
+					<div class="row py-5"> 
 						<div class="col-lg-6 px-5">
                             <ul class="pt-1 ccognitive_ai_list">
                                 <li><h4>Cognitive Chatbots for Customer Support and Engagement</h4>
