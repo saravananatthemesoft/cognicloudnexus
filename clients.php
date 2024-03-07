@@ -10,7 +10,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		
 		<!-- Title -->
-        <title>Contact Us - Home to advanced Cognitive AI and Cloud solutions.</title>
+        <title>Clients - Home to advanced Cognitive AI and Cloud solutions.</title>
 		
 		<!-- Favicon -->
         <link rel="icon" href="img/favicon.png">
@@ -41,6 +41,30 @@
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="css/responsive.css">
+
+        <style>
+            .carousel-inner .carousel-item.active,
+            .carousel-inner .carousel-item-next,
+            .carousel-inner .carousel-item-prev {
+            display: flex;
+            }
+
+            .carousel-inner .carousel-item-right.active,
+            .carousel-inner .carousel-item-next {
+            transform: translateX(25%);
+            }
+
+            .carousel-inner .carousel-item-left.active, 
+            .carousel-inner .carousel-item-prev {
+            transform: translateX(-25%);
+            }
+            
+            .carousel-inner .carousel-item-right,
+            .carousel-inner .carousel-item-left{ 
+            transform: translateX(0);
+            
+            }
+        </style>
 		
     </head>
     <body>
@@ -72,8 +96,8 @@
 				<div class="bread-inner">
 					<div class="row">
 						<div class="col-12">
-							<h1>Clients</h1>
-							<h2>Place Holder Text</h2>
+							<h1 style="color:#fff">Clients</h1>
+							<!-- <h2>Clients</h2> -->
 						</div>
 					</div>
 				</div>
@@ -83,11 +107,50 @@
 				
 		<!-- Start Contact Us -->
 		<section class="contact-us section">
-			<div class="container">
-				<div class="contact-info">
-
-				</div>
-			</div>
+            <div class="container text-center my-3">
+                <div class="row mx-auto my-auto">
+                    <div id="clientCarousel1" class="carousel slide w-100" data-ride="carousel">
+                        <div class="carousel-inner w-100" role="listbox">
+                            <div class="carousel-item active">
+                                <img class="d-block col-3 img-fluid" src="img/clients/wawa.png">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block col-3 img-fluid" src="img/clients/verzion3.png">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block col-3 img-fluid" src="img/clients/usbankcorp.jpg">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block col-3 img-fluid" src="img/clients/uipath.png">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block col-3 img-fluid" src="img/clients/Tyson.png">
+                            </div>
+                         </div>
+                    </div>
+                </div>
+                <div class="row mx-auto my-auto my-3 clinet_div">
+                    <div id="clientCarousel2" class="carousel slide w-100" data-ride="carousel">
+                        <div class="carousel-inner w-100" role="listbox">
+                            <div class="carousel-item active">
+                                <img class="d-block col-3 img-fluid" src="img/clients/tmob.png">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block col-3 img-fluid" src="img/clients/TDS.png">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block col-3 img-fluid" src="img/clients/Sigue.png">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block col-3 img-fluid" src="img/clients/Marsh-Mclennan.png">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block col-3 img-fluid" src="img/clients/LG.png">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 		</section>
 		<!--/ End Contact Us -->
 		
@@ -141,5 +204,35 @@
 		<script src="js/bootstrap.min.js"></script>
 		<!-- Main JS -->
 		<script src="js/main.js"></script>
+
+        <script>
+            $('#clientCarousel1').carousel({
+            interval :3000,
+            direction:'right'
+           
+            })
+
+            $('#clientCarousel2').carousel({
+            interval :3000,
+            direction:'left'
+            })
+
+            $('.carousel .carousel-item').each(function(){
+                var next = $(this).next();
+                if (!next.length) {
+                next = $(this).siblings(':first');
+                }
+                next.children(':first-child').clone().appendTo($(this));
+                
+                for (var i=0;i<2;i++) {
+                    next=next.next();
+                    if (!next.length) {
+                        next = $(this).siblings(':first');
+                    }
+                    
+                    next.children(':first-child').clone().appendTo($(this));
+                }
+            });
+        </script>
     </body>
 </html>

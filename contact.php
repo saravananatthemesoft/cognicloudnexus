@@ -72,8 +72,7 @@
 				<div class="bread-inner">
 					<div class="row">
 						<div class="col-12">
-							<h1>Contact Us</h1>
-							<h2>Place Holder Text</h2>
+						<h1 style="color:#fff">Contact Us</h1>
 						</div>
 					</div>
 				</div>

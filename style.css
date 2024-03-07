@@ -4311,3 +4311,7 @@ body{
 }
 
 .lc-card--logo-link.lc-filter-greyscale:hover img{filter:none;opacity:1}
+
+.clinet_div{
+	padding-top: 50px;
+}

@@ -11,6 +11,7 @@
                         <li><a href="cloud.php">Cloud solutions</a></li>
                         <li><a href="network_services.php">Network Services</a></li>
                         <li><a href="platform.php">Platforms</a></li>	
+                        <li><a href="clients.php">Clients</a></li>	
                         <li><a href="contact.php">Contact Us</a></li>	
                     </ul>
                 </div>
