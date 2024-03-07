@@ -4261,3 +4261,53 @@ body{
 	font-size: 16px;
 	color:#fff;
 }
+.about_page_content p{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.awards .award{
+	text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.awards .award a{
+	padding: 20px;
+    min-height: 165px;
+	cursor: pointer;
+}
+.awards .award img{
+	filter: grayscale(100%);
+    opacity: .5;
+	position: relative;
+	margin: 0 auto;
+	max-width: 135px;
+	vertical-align: bottom;
+}
+.flex-1 {
+    flex: 1 1 0%;
+}
+.shadow-3 {
+    --tw-shadow: 0 0 17px rgba(0, 0, 0, .15);
+    --tw-shadow-colored: 0 0 17px var(--tw-shadow-color);
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 17px rgba(0,0,0,.15);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+.rounded-\[16px\] {
+    border-radius: 16px;
+}
+
+.lc-card--logo-link{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    --tw-bg-opacity: 1;
+    background-color: #fff;
+    transition-duration: .1s;
+    transition-property: transform;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+}
+
+.lc-card--logo-link:hover{
+	transform:scale(1.1);z-index:999;
+}
+
+.lc-card--logo-link.lc-filter-greyscale:hover img{filter:none;opacity:1}

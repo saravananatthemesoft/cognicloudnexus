@@ -45,6 +45,7 @@
                                     $page = substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/")+1);
                                     ?>
                                     <li class="<?= $page == 'index.php' ? 'active':''; ?>"><a href="index.php">Home</a></li>
+                                    <li class="<?= $page == 'about.php' ? 'active':''; ?>"><a href="about.php">About</a></li>
                                     <li class="<?= $page == 'cognitive_ai.php' ? 'active':''; ?>"><a href="cognitive_ai.php" >Cognitive AI</a></li>
                                     <li class="<?= $page == 'cloud.php' ? 'active':''; ?>"><a href="cloud.php">Cloud solutions</a></li>
                                     <li class="<?= $page == 'network_services.php' ? 'active':''; ?>"><a href="network_services.php">Network Services</a></li>

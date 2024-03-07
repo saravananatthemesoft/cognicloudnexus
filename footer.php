@@ -6,6 +6,7 @@
                 <div class="col-lg-12 col-md-12 col-12 text-center">
                     <ul class="footer-menu">
                         <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About</a></li>
                         <li><a href="cognitive_ai.php">Cognitive AI</a></li>
                         <li><a href="cloud.php">Cloud solutions</a></li>
                         <li><a href="network_services.php">Network Services</a></li>
