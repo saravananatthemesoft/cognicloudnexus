@@ -60,7 +60,7 @@
                                             <li><a href="blog-single.html">Blog Details</a></li>
                                         </ul>
                                     </li> -->
-                                    <!-- <li><a href="contact.html">Contact Us</a></li> -->
+                                    <li class="<?= $page == 'platform.php' ? 'active':''; ?>"><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </nav>
                         </div>
