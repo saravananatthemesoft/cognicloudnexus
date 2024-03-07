@@ -41,6 +41,12 @@
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="css/responsive.css">
+
+		<style>
+			.single-schedule{
+				cursor: pointer;
+			}
+		</style>
 		
     </head>
     <body>
@@ -96,7 +102,7 @@
 					<div class="row">
 						<div class="col-lg-3 col-md-6 col-12 ">
 							<!-- single-schedule -->
-							<div class="single-schedule first">
+							<div class="single-schedule first" id="cognitive_ai">
 								<div class="inner">
 									<div class="icon">
 										<i class="fa fa-puzzle-piece"></i>
@@ -111,7 +117,7 @@
 						</div>
 						<div class="col-lg-3 col-md-6 col-12">
 							<!-- single-schedule -->
-							<div class="single-schedule middle">
+							<div class="single-schedule middle" id="cloud_solutions">
 								<div class="inner">
 									<div class="icon">
 										<i class="fa fa-cloud"></i>
@@ -125,7 +131,7 @@
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-12 col-12">
-							<div class="single-schedule last">
+							<div class="single-schedule last" id="network_solutions">
 								<div class="inner">
 									<div class="icon">
 										<i class="fa fa-sitemap"></i>
@@ -140,7 +146,7 @@
 						</div>
 						<div class="col-lg-3 col-md-12 col-12">
 							<!-- single-schedule -->
-							<div class="single-schedule last">
+							<div class="single-schedule last" id="platformss">
 								<div class="inner">
 									<div class="icon">
 										<i class="fa fa-slack"></i>
@@ -257,5 +263,23 @@
 		<script src="js/bootstrap.min.js"></script>
 		<!-- Main JS -->
 		<script src="js/main.js"></script>
+		<script>
+			$('#cognitive_ai').click(function() {
+				window.location.href = 'cognitive_ai.php';
+				return false;
+			});
+			$('#cloud_solutions').click(function() {
+				window.location.href = 'cloud.php';
+				return false;
+			});
+			$('#network_solutions').click(function() {
+				window.location.href = 'network_services.php';
+				return false;
+			});
+			$('#platformss').click(function() {
+				window.location.href = 'platform.php';
+				return false;
+			});
+		</script>
     </body>
 </html>
