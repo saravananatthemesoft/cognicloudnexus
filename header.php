@@ -26,7 +26,7 @@
         <div class="container">
             <div class="inner">
                 <div class="row">
-                    <div class="col-lg-3 col-md-3 col-12">
+                    <div class="col-lg-2 col-md-3 col-12">
                         <!-- Start Logo -->
                         <div class="logo">
                             <a href="index.php"><img src="img/logo-with-c.png" width="80" alt="#"></a>
@@ -36,7 +36,7 @@
                         <div class="mobile-nav"></div>
                         <!-- End Mobile Nav -->
                     </div>
-                    <div class="col-lg-9 col-md-9 col-12">
+                    <div class="col-lg-10 col-md-9 col-12">
                         <!-- Main Menu -->
                         <div class="main-menu">
                             <nav class="navigation">
@@ -50,6 +50,7 @@
                                     <li class="<?= $page == 'cloud.php' ? 'active':''; ?>"><a href="cloud.php">Cloud solutions</a></li>
                                     <li class="<?= $page == 'network_services.php' ? 'active':''; ?>"><a href="network_services.php">Network Services</a></li>
                                     <li class="<?= $page == 'platform.php' ? 'active':''; ?>"><a href="platform.php">Platforms</a></li>
+                                    <li class="<?= $page == 'clients.php' ? 'active':''; ?>"><a href="clients.php">Clients</a></li>
                                     <!-- <li><a href="#">Pages <i class="icofont-rounded-down"></i></a>
                                         <ul class="dropdown">
                                             <li><a href="404.html">404 Error</a></li>
