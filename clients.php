@@ -124,7 +124,7 @@
                                 <img class="d-block col-3 img-fluid" src="img/clients/uipath.png">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block col-3 img-fluid" src="img/clients/Tyson.png">
+                                <img class="d-block col-3 img-fluid" src="img/clients/lazard.png">
                             </div>
                          </div>
                     </div>
@@ -139,7 +139,7 @@
                                 <img class="d-block col-3 img-fluid" src="img/clients/TDS.png">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block col-3 img-fluid" src="img/clients/Sigue.png">
+                                <img class="d-block col-3 img-fluid" src="img/clients/amcor.jpg">
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block col-3 img-fluid" src="img/clients/Marsh-Mclennan.png">
