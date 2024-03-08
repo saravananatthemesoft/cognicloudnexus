@@ -29,7 +29,7 @@
                     <div class="col-lg-2 col-md-3 col-12">
                         <!-- Start Logo -->
                         <div class="logo">
-                            <a href="index.php"><img src="img/logo-with-c.png" width="80" alt="#"></a>
+                            <a href="index"><img src="img/logo-with-c.png" width="80" alt="#"></a>
                         </div>
                         <!-- End Logo -->
                         <!-- Mobile Nav -->
@@ -44,13 +44,13 @@
                                     <?php
                                     $page = substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/")+1);
                                     ?>
-                                    <li class="<?= $page == 'index.php' ? 'active':''; ?>"><a href="index.php">Home</a></li>
-                                    <li class="<?= $page == 'about.php' ? 'active':''; ?>"><a href="about.php">About</a></li>
-                                    <li class="<?= $page == 'cognitive_ai.php' ? 'active':''; ?>"><a href="cognitive_ai.php" >Cognitive AI</a></li>
-                                    <li class="<?= $page == 'cloud.php' ? 'active':''; ?>"><a href="cloud.php">Cloud solutions</a></li>
-                                    <li class="<?= $page == 'network_services.php' ? 'active':''; ?>"><a href="network_services.php">Network Services</a></li>
-                                    <li class="<?= $page == 'platform.php' ? 'active':''; ?>"><a href="platform.php">Platforms</a></li>
-                                    <li class="<?= $page == 'clients.php' ? 'active':''; ?>"><a href="clients.php">Clients</a></li>
+                                    <li class="<?= $page == 'index.php' ? 'active':''; ?>"><a href="index">Home</a></li>
+                                    <li class="<?= $page == 'about.php' ? 'active':''; ?>"><a href="about">About</a></li>
+                                    <li class="<?= $page == 'cognitive_ai.php' ? 'active':''; ?>"><a href="cognitive_ai" >Cognitive AI</a></li>
+                                    <li class="<?= $page == 'cloud.php' ? 'active':''; ?>"><a href="cloud">Cloud solutions</a></li>
+                                    <li class="<?= $page == 'network_services.php' ? 'active':''; ?>"><a href="network_services">Network Services</a></li>
+                                    <li class="<?= $page == 'platform.php' ? 'active':''; ?>"><a href="platform">Platforms</a></li>
+                                    <li class="<?= $page == 'clients.php' ? 'active':''; ?>"><a href="clients">Clients</a></li>
                                     <!-- <li><a href="#">Pages <i class="icofont-rounded-down"></i></a>
                                         <ul class="dropdown">
                                             <li><a href="404.html">404 Error</a></li>
@@ -61,7 +61,7 @@
                                             <li><a href="blog-single.html">Blog Details</a></li>
                                         </ul>
                                     </li> -->
-                                    <li class="<?= $page == 'contact.php' ? 'active':''; ?>"><a href="contact.php">Contact Us</a></li>
+                                    <li class="<?= $page == 'contact.php' ? 'active':''; ?>"><a href="contact">Contact Us</a></li>
                                 </ul>
                             </nav>
                         </div>

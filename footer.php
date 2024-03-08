@@ -5,14 +5,14 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12 text-center">
                     <ul class="footer-menu">
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="about.php">About</a></li>
-                        <li><a href="cognitive_ai.php">Cognitive AI</a></li>
-                        <li><a href="cloud.php">Cloud solutions</a></li>
-                        <li><a href="network_services.php">Network Services</a></li>
-                        <li><a href="platform.php">Platforms</a></li>	
-                        <li><a href="clients.php">Clients</a></li>	
-                        <li><a href="contact.php">Contact Us</a></li>	
+                        <li><a href="/">Home</a></li>
+                        <li><a href="about">About</a></li>
+                        <li><a href="cognitive_ai">Cognitive AI</a></li>
+                        <li><a href="cloud">Cloud solutions</a></li>
+                        <li><a href="network_services">Network Services</a></li>
+                        <li><a href="platform">Platforms</a></li>	
+                        <li><a href="clients">Clients</a></li>	
+                        <li><a href="contact">Contact Us</a></li>	
                     </ul>
                 </div>
             </div>
