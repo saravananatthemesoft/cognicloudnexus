@@ -122,17 +122,17 @@
 					<div class="row">
 						<!-- single-info -->
 						<div class="col-lg-12 col-12 ">
-							<h2 class="text-center py-5 blue_text">UNITED STATES</h2>
+							<h1 class="text-center py-5">UNITED STATES</h1>
 						</div>
 						<div class="col-lg-6 col-12 ">
 							<div class="single-info-without-blue">
-								<h2>Irving, TX</h2>
+								<h2 class="blue_text">Irving, TX</h2>
 								<p class="address">400 East Royal Lane, Suite 290<br>Irving, Texas 75039</p>
 							</div>
 						</div>
 						<div class="col-lg-6 col-12 ">
 							<div class="single-info-without-blue">
-								<h2>Tampa, FL</h2>
+								<h2 class="blue_text">Tampa, FL</h2>
 								<p class="address">8270 Woodland Center Blvd<br>Tampa, Florida 33614</p>
 							</div>
 						</div>
@@ -141,23 +141,23 @@
 					<div class="row">
 						<!-- single-info -->
 						<div class="col-lg-12 col-12 ">
-							<h2 class="text-center py-5 blue_text">INDIA</h2>
+							<h1 class="text-center py-5">INDIA</h1>
 						</div>
 						<div class="col-lg-4 col-12 ">
 							<div class="single-info-without-blue">
-								<h2> Chennai, IN</h2>
+								<h2 class="blue_text"> Chennai, IN</h2>
 								<p class="address">3rd Floor, Shyamala tower,<br>Arcot Road, Saligramam,<br>Chennai Tamil Nadu 600093</p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-12 ">
 							<div class="single-info-without-blue">
-								<h2>Karnataka, IN</h2>
+								<h2 class="blue_text">Karnataka, IN</h2>
 								<p class="address">43 Residency Rd<br>Bengaluru Karnataka 560025<br>India</p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-12 ">
 							<div class="single-info-without-blue">
-								<h2>Odisha, IN</h2>
+								<h2 class="blue_text">Odisha, IN</h2>
 								<p class="address">207, Saheed Nagar<br>Bhubaneswar Odisha 75100<br>India</p>
 							</div>
 						</div>
