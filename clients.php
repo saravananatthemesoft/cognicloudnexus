@@ -188,11 +188,6 @@
            
             })
 
-            // $('#clientCarousel2').carousel({
-            // interval :3000,
-            // direction:'left'
-            // })
-
             $('.carousel .carousel-item').each(function(){
                 var next = $(this).next();
                 if (!next.length) {

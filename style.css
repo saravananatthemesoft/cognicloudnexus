@@ -3375,11 +3375,11 @@ body{
 	transform:scale(1);
 }
 .contact-us .contact-info{
-	margin-top:50px;
+	margin-top:0px;
 }
 .contact-us .single-info {
 	background: #1a76d1;
-	padding: 40px 60px;
+	padding: 40px 13px;
 	height: 150px;
 	border-radius: 10px;
 	position:relative;
@@ -3388,6 +3388,23 @@ body{
     -ms-transition: all .3s ease-out 0s;
     -o-transition: all .3s ease-out 0s;
     transition: all .3s ease-out 0s;
+}
+
+.contact-us .single-info-without-blue {
+	padding: 20px 13px;
+	height: 150px;
+	border-radius: 10px;
+	position:relative;
+	text-align: center;
+	-webkit-transition: all .3s ease-out 0s;
+    -moz-transition: all .3s ease-out 0s;
+    -ms-transition: all .3s ease-out 0s;
+    -o-transition: all .3s ease-out 0s;
+    transition: all .3s ease-out 0s;
+}
+
+.contact-us .single-info-without-blue .address {
+	padding: 10px 13px;
 }
 .contact-us .single-info:before{
 	position: absolute;
@@ -3418,7 +3435,7 @@ body{
 	font-size:42px;
 	color:#fff;
 	position:absolute;
-	left:40px;
+	left:5px;
 }
 .contact-us .single-info .content {
 	margin-left: 45px;
@@ -4314,4 +4331,8 @@ body{
 
 .clinet_div{
 	padding-top: 50px;
+}
+
+.top_contact .email-id{
+	color: #1A76D1;	
 }

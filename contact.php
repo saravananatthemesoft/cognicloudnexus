@@ -86,18 +86,18 @@
 				<div class="contact-info">
 					<div class="row">
 						<!-- single-info -->
-						<div class="col-lg-4 col-12 ">
-							<div class="single-info">
-								<i class="icofont icofont-ui-call"></i>
-								<div class="content">
-									<h3>+(000) 1234 56789</h3>
-									<p>info@company.com</p>
+						<div class="col-lg-12 col-12 ">
+								<div class="content text-center top_contact">
+									<!-- <h3>+(000) 1234 56789</h3> -->
+									<h1 class="py-2">We appreciate your interest in Cognicloudnexus.</h1>
+									<h6 class="py-2">Get in touch with us.</h6>
+									<h1><a href="mailto:contact@cognicloudnexus.com" class="email-id">contact@cognicloudnexus.com</a></h1>
+									<!-- <p>contact@cognicloudnexus.com</p> -->
 								</div>
-							</div>
 						</div>
 						<!--/End single-info -->
 						<!-- single-info -->
-						<div class="col-lg-4 col-12 ">
+						<!-- <div class="col-lg-4 col-12 ">
 							<div class="single-info">
 								<i class="icofont-google-map"></i>
 								<div class="content">
@@ -105,10 +105,10 @@
 									<p>Chittagonj, Lakshmipur</p>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						<!--/End single-info -->
 						<!-- single-info -->
-						<div class="col-lg-4 col-12 ">
+						<!-- <div class="col-lg-4 col-12 ">
 							<div class="single-info">
 								<i class="icofont icofont-wall-clock"></i>
 								<div class="content">
@@ -116,10 +116,53 @@
 									<p>Sunday Closed</p>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						<!--/End single-info -->
 					</div>
-				</div>
+					<div class="row">
+						<!-- single-info -->
+						<div class="col-lg-12 col-12 ">
+							<h2 class="text-center py-5">UNITED STATES</h2>
+						</div>
+						<div class="col-lg-6 col-12 ">
+							<div class="single-info-without-blue">
+								<h2>Irving, TX</h2>
+								<p class="address">400 East Royal Lane, Suite 290<br>Irving, Texas 75039</p>
+							</div>
+						</div>
+						<div class="col-lg-6 col-12 ">
+							<div class="single-info-without-blue">
+								<h2>Tampa, FL</h2>
+								<p class="address">8270 Woodland Center Blvd<br>Tampa, Florida 33614</p>
+							</div>
+						</div>
+						
+					</div>
+					<div class="row">
+						<!-- single-info -->
+						<div class="col-lg-12 col-12 ">
+							<h2 class="text-center py-5">India</h2>
+						</div>
+						<div class="col-lg-4 col-12 ">
+							<div class="single-info-without-blue">
+								<h2> Chennai, IN</h2>
+								<p class="address">3rd Floor, Shyamala tower,<br>Arcot Road, Saligramam,<br>Chennai Tamil Nadu 600093</p>
+							</div>
+						</div>
+						<div class="col-lg-4 col-12 ">
+							<div class="single-info-without-blue">
+								<h2>Karnataka, IN</h2>
+								<p class="address">43 Residency Rd<br>Bengaluru Karnataka 560025<br>India</p>
+							</div>
+						</div>
+						<div class="col-lg-4 col-12 ">
+							<div class="single-info-without-blue">
+								<h2>Odisha, IN</h2>
+								<p class="address">207, Saheed Nagar<br>Bhubaneswar Odisha 75100<br>India</p>
+							</div>
+						</div>
+						
+					</div>
 			</div>
 		</section>
 		<!--/ End Contact Us -->
