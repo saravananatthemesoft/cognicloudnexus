@@ -122,7 +122,7 @@
 					<div class="row">
 						<!-- single-info -->
 						<div class="col-lg-12 col-12 ">
-							<h2 class="text-center py-5">UNITED STATES</h2>
+							<h2 class="text-center py-5 blue_text">UNITED STATES</h2>
 						</div>
 						<div class="col-lg-6 col-12 ">
 							<div class="single-info-without-blue">
@@ -141,7 +141,7 @@
 					<div class="row">
 						<!-- single-info -->
 						<div class="col-lg-12 col-12 ">
-							<h2 class="text-center py-5">India</h2>
+							<h2 class="text-center py-5 blue_text">INDIA</h2>
 						</div>
 						<div class="col-lg-4 col-12 ">
 							<div class="single-info-without-blue">
